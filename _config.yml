@@ -26,7 +26,7 @@ navbar-links:
   Projects: "projects"
   R&D results: "randdresults"
   Publications: "publications"
-  Blog: "blog"
+  Blog: "/blog"
 
 ################
 # --- Logo --- #
