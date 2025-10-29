@@ -53,7 +53,7 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "ingeniero@manolodominguez.com"
-  rss: false  # remove this line if you don't want to show an RSS link at the bottom
+  #rss: false  # remove this line if you don't want to show an RSS link at the bottom
   facebook: manueldominguezdorado
   github: manolodd
   twitter: manolodd
@@ -62,11 +62,11 @@ social-network-links:
 #  whatsapp: 15551212
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: manueldominguezdorado
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: manueldominguezdorad
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
