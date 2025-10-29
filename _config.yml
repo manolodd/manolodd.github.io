@@ -10,17 +10,23 @@
 ############################
 
 # Name of website
-title: My website
+title: Manuel Domínguez-Dorado
 
 # Your name to show in the footer
-author: Some Person
+author: Manuel Domínguez-Dorado
 
 ###############################################
 # --- List of links in the navigation bar --- #
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
+  About me: "aboutme"
+  Education: "education"
+  Trajectory: "trajectory"
+  Projects: "projects"
+  R&D results: "randdresults"
+  Publications: "publications"
+  Blog: "blog"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
