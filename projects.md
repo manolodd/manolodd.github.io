@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-subtitle: Why you'd want to go on a date with me
+subtitle: “Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it.” — Johann Wolfgang von Goethe
 ---
 
 My name is Inigo Montoya. I have the following qualities:
