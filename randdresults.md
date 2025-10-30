@@ -1,7 +1,7 @@
 ---
 layout: page
 title: R&D results
-subtitle: Why you'd want to go on a date with me
+subtitle: “Research is formalized curiosity. It is poking and prying with a purpose.” — Zora Neale Hurston
 ---
 
 My name is Inigo Montoya. I have the following qualities:
