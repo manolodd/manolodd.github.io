@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: “Don’t ask yourself what the world needs. Ask yourself what makes you come alive, and go do that.” — Howard Thurman
 ---
 
 My name is Inigo Montoya. I have the following qualities:
