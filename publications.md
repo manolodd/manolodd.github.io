@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Publications
-subtitle: Why you'd want to go on a date with me
+subtitle: “If you have knowledge, let others light their candles in it.” — Margaret Fuller
 ---
 
 My name is Inigo Montoya. I have the following qualities:
