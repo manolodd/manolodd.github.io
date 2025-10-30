@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Trajectory
-subtitle: Why you'd want to go on a date with me
+subtitle: “The risk of a wrong decision is preferable to the terror of indecision.” - Maimonides
 ---
 
 My name is Inigo Montoya. I have the following qualities:
