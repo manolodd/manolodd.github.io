@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Education
-subtitle: Why you'd want to go on a date with me
+subtitle: “Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.” — Henry Ford
 ---
 
 My name is Inigo Montoya. I have the following qualities:
