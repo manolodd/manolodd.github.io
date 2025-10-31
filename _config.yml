@@ -253,7 +253,7 @@ footer-hover-col: "#61C8FF"
 
 # Ruby Date Format to show dates of posts
 #date_format: "%B %-d, %Y"
-date_format: ""
+date_format: "a day that doesn’t matter"
 
 # Facebook App ID
 #fb_app_id: ""
