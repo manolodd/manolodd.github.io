@@ -2,6 +2,8 @@
 layout: page
 title: About me
 subtitle: “Don’t ask yourself what the world needs. Ask yourself what makes you come alive, and go do that.” - Howard Thurman
+cover-img:
+  - "/assets/img/about_cover.jpg"
 ---
 
 Welcome to my space. I'm *Manuel Domínguez-Dorado* — engineer, computer scientist, and researcher.
