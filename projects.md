@@ -2,6 +2,8 @@
 layout: page
 title: Projects
 subtitle: “Whatever you can do or dream you can, begin it. Boldness has genius, power, and magic in it.” — Johann Wolfgang von Goethe
+cover-img:
+  - "/assets/img/projects_cover.jpg"
 ---
 
 When I talk about projects, I don’t just think of tasks or deadlines. I think of *people*, of *teams* that combine their strengths and talents to create something meaningful.
