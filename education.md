@@ -2,6 +2,8 @@
 layout: page
 title: Education
 subtitle: “Anyone who stops learning is old, whether at twenty or eighty. Anyone who keeps learning stays young.” — Henry Ford
+cover-img:
+  - "/assets/img/education_cover.jpg"
 ---
 
 At this stage in life, I’m not sure it’s necessary to list every course and degree I’ve ever completed 🙂. I even question whether it’s still common or useful to do so in a 21st-century résumé. So instead, I’ll simply mention the qualifications that most directly support my professional work today.
