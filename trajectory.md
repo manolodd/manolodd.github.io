@@ -2,6 +2,8 @@
 layout: page
 title: Trajectory
 subtitle: “The risk of a wrong decision is preferable to the terror of indecision.” - Maimonides
+cover-img:
+  - "/assets/img/trajectory_cover.jpg"
 ---
 
 I don’t believe in success as mere recognition, but rather as the ability to generate a *positive, lasting, and tangible impact* through one’s contributions. That defines me quite well.
