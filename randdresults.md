@@ -2,6 +2,8 @@
 layout: page
 title: R&D results
 subtitle: “Research is formalized curiosity. It is poking and prying with a purpose.” — Zora Neale Hurston
+cover-img:
+  - "/assets/img/randdresults_cover.jpg"
 ---
 
 When you work at a certain level, new concepts and techniques often emerge, sometimes by serendipity, but more often through deliberate effort. These research results, when properly managed, formalized, and peer-reviewed, become small contributions that help move everything forward.
