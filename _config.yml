@@ -268,7 +268,7 @@ markdown: kramdown
 highlighter: rouge
 #permalink: /:year-:month-:day-:title/
 permalink: /the-breakroom-:title/
-paginate: 3
+paginate: 5
 
 kramdown:
   input: GFM
