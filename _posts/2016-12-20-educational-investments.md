@@ -9,7 +9,7 @@ tags: [associations]
 author: Manuel Domínguez-Dorado
 ---
 
-More than 25 years ago, I was a teenager and had the good fortune to win a computer in a contest. A computer with 640 KB of RAM, a mouse, a 30 MB hard drive, low-density 3.5” floppy disks, a grayscale monitor, MS-DOS and Windows 1… which I had on my desk for over a year without knowing what to do with it. Neither I nor any of my friends at the time. Some of them had computers like the Amstrad CPC464, Sinclair ZX Spectrum, Amstrad PCW 8256, etc. And basically what they did with them was rent cassette-format games from a video store, copy them, and play.
+More than 4 decades ago, I was a teenager and had the good fortune to win a computer in a contest. A computer with 640 KB of RAM, a mouse, a 30 MB hard drive, low-density 3.5” floppy disks, a grayscale monitor, MS-DOS and Windows 1… which I had on my desk for over a year without knowing what to do with it. Neither I nor any of my friends at the time. Some of them had computers like the Amstrad CPC464, Sinclair ZX Spectrum, Amstrad PCW 8256, etc. And basically what they did with them was rent cassette-format games from a video store, copy them, and play.
 
 ![PMI Branch logo](/assets/img/posts/educacion_tic_amstrad_pc2086-300x225.jpg){: .mx-auto.d-block :}
 
@@ -29,4 +29,5 @@ Many times we tend to believe that investment in equipment in educational center
 *   I had the luck to study in a center where there was equipment that, for the time, was surely considered wasteful or excessive, and where there was a willingness to put it “at the service” of the students.
 
 So, when thoughts like “what a waste,” “what a way to squander money” come to mind, even knowing that in many cases it’s true, I like to imagine that somewhere there’s a boy or girl investigating how a certain “gadget” works, helped by a committed teacher, and maybe, without knowing it, their life is being changed.
+
 
