@@ -21,3 +21,44 @@ Because in the end, what I value most isn’t the project itself, but the *conne
 Although I couldn’t list them all here, I’ve decided to give them, every now and then, space on my blog to share my insights and reflections. Each project is a lesson, and I hope those who visit find something useful or inspiring in my stories.
 
 And of course, I’m always eager for new challenges. Because I know that the more projects I take on, and the more people I meet, the richer this journey called my career will be.
+
+<div class="container">
+  <div class="row">
+
+    <!-- Proyecto 1 -->
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        /proyecto1
+          <img src="/assetscto1.jpg
+        </a>
+        <div class="card-body text-center">
+          <h5 class="card-title">Proyecto 1</h5>
+        </div>
+      </div>
+    </div>
+
+    <!-- Proyecto 2 -->
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        /proyecto2
+          <img src="/assets/img/proyecto2.jpg" class="card-img-top" altrd-body text-center">
+          <h5 class="card-title">Proyecto 2</h5>
+        </div>
+      </div>
+    </div>
+
+    <!-- Proyecto 3 -->
+    <div class="col-md-4">
+      <div class="card mb-4 shadow-sm">
+        /proyecto3
+          /assets/img/proyecto3.jpg
+        </a>
+        <div class="card-body text-center">
+          <h5 class="card-title">Proyecto 3</h5>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+``
