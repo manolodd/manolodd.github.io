@@ -83,9 +83,7 @@ And with that, we’ve created our own certification authority, which I’ve nam
 
 ### Generating the server certificate for the Mosquitto broker
 
-![PMI Branch logo](/assets/img/posts/ubuntu-1604-300x156.jpg){: .mx-auto.d-block :}
-!creacioncertificado  
-*Steps to create the server certificate for Mosquitto (simplified)*
+![PMI Branch logo](/assets/img/posts/creacioncertificado-263x300.jpg){: .mx-auto.d-block :}
 
 Next, we create a server certificate for the Mosquitto broker installed on the thin client, signed by our CA.
 
@@ -205,3 +203,4 @@ Expected output:
 Understanding OpenSSL deeply is not trivial. Sorry if this article is dense, but I felt it was essential to grasp the basics. Creating a CA and server certificate is doable with some research. Configuring Mosquitto for TLS is very simple once you have the certificates.
 
 In the next and final article of this series, I’ll cover user authentication and ACLs supported by Mosquitto.
+
