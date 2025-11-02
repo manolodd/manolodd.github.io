@@ -38,9 +38,7 @@ The key, therefore, is to have mechanisms to compare two date/time values regard
 
 Some time ago, I decided to write a small Java library to help me manage and compare dates and times with time zone information. I called it JGlobalDateTime and published it on GitHub so anyone could use and modify it freely.
 
-!JGlobalDateTime
-![PMI Branch logo](/assets/img/posts/creacioncertificado-263x300.jpg){: .mx-auto.d-block :}
-
+![JGlobalDateTime logo](/assets/img/posts/jglobaldatetime-logo-300x300.jpg){: .mx-auto.d-block :}
 
 ***
 
@@ -163,3 +161,4 @@ JGlobalDateTime has many other options. In this article, I’ve tried to highlig
 If you need very advanced operations with time zones, calendars… then use another library like Joda-Time, but if your needs are more modest, you’ll probably find JGlobalDateTime a very useful tool that adds very little extra space to your project.
 
 In any case, the important thing is to have options to choose from.
+
