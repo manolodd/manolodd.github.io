@@ -3,7 +3,7 @@ layout: post
 title: OpenSimMPLS simulator
 subtitle: A java-based, standalone, network simulator
 cover-img: /assets/img/posts/destacada-proyecto-opensimmpls.png
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/opensimmpls-logo.jpg
 share-img: /assets/img/path.jpg
 tags: [projects]
 author: Manuel Domínguez-Dorado
@@ -54,5 +54,6 @@ Most of the things people were asking for here and there were more or less simpl
 Not all measures are finished yet. In fact, some haven’t even started. But a large part is. Especially those that most prevent the project from being extended by third parties: translation to English and code refactoring. That task is quite advanced. As is the repository and license change. With this, I hope this project lives at least another 10 years, either as it is or as a fork that evolves in parallel. There are already forks of the project on GitHub that haven’t been able to make pull requests since I’m in the middle of executing the described tasks 😟 Sorry! In any case, project downloads are more or less constant at about 1,000 per month, since the releases are intact and ready to use.
 
 So this is the OpenSimMPLS project. If you want to contribute, use it, learn more, or share experiences, don’t hesitate to get in touch through any of the means described.
+
 
 
