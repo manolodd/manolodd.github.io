@@ -9,7 +9,7 @@ tags: [testbed]
 author: Manuel Domínguez-Dorado
 ---
 
-In the previous article I explained that I wanted to use a Fujitsu Futro S450 thin client as a permanent MQTT broker for my local environment. I explained how I made several hardware upgrades so it could run an MQTT broker more or less comfortably and at low cost. That’s where I left it. In today’s article, I’ll explain the steps to change the operating system and install the first version of the MQTT broker, which I’ll leave running with its default configuration.
+In the ![previous article](https://manolodd.github.io/the-breakroom-mqtt-broker-1) I explained that I wanted to use a Fujitsu Futro S450 thin client as a permanent MQTT broker for my local environment. I explained how I made several hardware upgrades so it could run an MQTT broker more or less comfortably and at low cost. That’s where I left it. In today’s article, I’ll explain the steps to change the operating system and install the first version of the MQTT broker, which I’ll leave running with its default configuration.
 
 ### A new operating system for the Futro S450
 
@@ -186,3 +186,4 @@ And it remains there, subscribed, waiting for more messages until we press `<Ctr
 Having an MQTT broker acting as an ESB with low-cost hardware and low power consumption is very, very simple. Mosquitto is a very powerful and high-performance MQTT broker. With the combination of a 64-bit Thin Client and Mosquitto, we can have an MQTT broker for a long time and certainly a solid base to build very interesting IoT (or not) applications, because it’s very easy to connect your application (mobile app, backend, web…) from any programming language to your MQTT broker.
 
 As soon as I get a chance, I’ll write a third article and quickly explain how to configure MQTT over TLS to access the remote broker securely and, if I have time, also explain what ACL and authentication in Mosquitto are and how to configure them.
+
