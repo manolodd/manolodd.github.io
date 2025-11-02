@@ -1,4 +1,13 @@
-
+---
+layout: post
+title: 2nd GIDIP Gastro-Meeting (Mérida)
+subtitle: A new opportunity to share projects
+cover-img: /assets/img/posts/destacada-gidip-2.png
+thumbnail-img: /assets/img/posts/2nd-gastro-gidip-thumb.png
+share-img: /assets/img/path.jpg
+tags: [associations]
+author: Manuel Domínguez-Dorado
+---
 # 2nd GIDIP Gastro-Meeting (Mérida)
 
 ###### Manuel Domínguez-Dorado
@@ -9,7 +18,7 @@ Organizationally, PMI is structured into Chapters (generally covering the territ
 
 In mid-2014, several engineers and architects from Extremadura began working voluntarily and spontaneously to design and found a Branch of the Madrid Chapter of PMI with the territorial scope of Extremadura and Castilla-La Mancha (⅓ of the national territory). Branches, recognized by PMI, allow the extension of Chapter services beyond their usual geographical areas. With this, we aimed to bring the services of the Madrid Chapter of PMI closer to Extremadura and Castilla-La Mancha in a much more direct and on-the-ground way.
 
-!EXT\_CLM\_Logo-1B
+![PMI Branch logo](/assets/img/posts/EXT_CLM_Logo-1B-768x244.jpg){: .mx-auto.d-block :}
 
 In September 2015, one year later, the Extremadura and Castilla-La Mancha Branch of the Madrid Chapter of PMI was created, whose official and massive presentation took place at the Polytechnic School of Cáceres. In this presentation, the enthusiasm of all attendees for project management was evident, as well as the need to form an interest group in project management not only focused on PMI but on any other methodology/certification or even none, so that this group would be method-agnostic.
 
@@ -17,7 +26,7 @@ In September 2015, one year later, the Extremadura and Castilla-La Mancha Branch
 
 Almost a year later, in September 2016, after great efforts to find formulas that would allow the creation of this group and, more importantly, its management, coordination, and maintenance, the Interest Group in Integrated Project Management (GIDIP) was created, initially and currently sponsored by the Extremadura and Castilla-La Mancha Branch of the Madrid Chapter of PMI but open to coordination and sponsorship by anyone interested in its continued operation.
 
-!151118\_Logo-GIDIP
+![GIDIP logo](/assets/img/posts/151118_Logo-GIDIP-768x215.jpg){: .mx-auto.d-block :}
 
 The characteristics of this group are:
 
@@ -41,7 +50,7 @@ About thirty friends from Extremadura and Castilla-La Mancha attended; mainly fr
 
 Once comfortable, we enjoyed the talks of two exceptional speakers: José Manuel Honrado and Miguel Ángel de la Calle, who shared their experiences related to scope management from two different perspectives. José Manuel spoke about private internationalization projects in Latin America, with real problems from a specific project, and Miguel Ángel discussed scope management in European projects, mainly from H2020, also from a very practical point of view and with real cases.
 
-!gidip2-participants
+![GIDIP participants](/assets/img/posts/gidip2-participantes-768x432.jpeg){: .mx-auto.d-block :}
 
 The meeting continued with an open debate session, with questions to the speakers and among the participants regarding scope management, which was very interesting as it revealed different issues depending on the sector and type of project.
 
@@ -59,3 +68,4 @@ You can stay up to date with GIDIP through:
 *   The GIDIP email
 
 Come on, join us!
+
