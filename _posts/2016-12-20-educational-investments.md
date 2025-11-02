@@ -5,7 +5,7 @@ subtitle: Not a waste but an investment
 cover-img: /assets/img/posts/destacada_ensenanza_tic.jpg
 thumbnail-img: /assets/img/posts/education-investiments-thumb.jpg
 share-img: /assets/img/path.jpg
-tags: [associations]
+tags: [opinion]
 author: Manuel Domínguez-Dorado
 ---
 
@@ -29,5 +29,6 @@ Many times we tend to believe that investment in equipment in educational center
 *   I had the luck to study in a center where there was equipment that, for the time, was surely considered wasteful or excessive, and where there was a willingness to put it “at the service” of the students.
 
 So, when thoughts like “what a waste,” “what a way to squander money” come to mind, even knowing that in many cases it’s true, I like to imagine that somewhere there’s a boy or girl investigating how a certain “gadget” works, helped by a committed teacher, and maybe, without knowing it, their life is being changed.
+
 
 
