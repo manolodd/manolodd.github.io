@@ -47,7 +47,7 @@ About thirty friends from Extremadura and Castilla-La Mancha attended; mainly fr
 
 Once comfortable, we enjoyed the talks of two exceptional speakers: José Manuel Honrado and Miguel Ángel de la Calle, who shared their experiences related to scope management from two different perspectives. José Manuel spoke about private internationalization projects in Latin America, with real problems from a specific project, and Miguel Ángel discussed scope management in European projects, mainly from H2020, also from a very practical point of view and with real cases.
 
-![GIDIP participants](/assets/img/posts/gidip2-participantes-768x432.jpeg){: .mx-auto.d-block :}
+![2nd GIDIP meeting participants](/assets/img/posts/gidip2-participantes-768x432.jpeg){: .mx-auto.d-block :}
 
 The meeting continued with an open debate session, with questions to the speakers and among the participants regarding scope management, which was very interesting as it revealed different issues depending on the sector and type of project.
 
@@ -65,5 +65,6 @@ You can stay up to date with GIDIP through:
 *   The GIDIP email
 
 Come on, join us!
+
 
 
