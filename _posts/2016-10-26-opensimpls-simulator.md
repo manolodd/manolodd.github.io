@@ -1,10 +1,17 @@
-# OpenSimMPLS Simulator
-
-###### Manuel Domínguez-Dorado
+---
+layout: post
+title: OpenSimMPLS simulator
+subtitle: A java-based, standalone, network simulator
+cover-img: /assets/img/posts/destacada-proyecto-opensimmpls.png
+thumbnail-img: /assets/img/thumb.png
+share-img: /assets/img/path.jpg
+tags: [projects]
+author: Manuel Domínguez-Dorado
+---
 
 Very occasionally, there is a situation where one develops something thinking it will be a “quiet” project, and ends up realizing that the project has unexpected acceptance. That happened to me with the OpenSimMPLS simulator; I initially developed this simulator in the context of my final degree project (FDP) in 2004. The FDP itself consisted of designing a series of technologies that allowed the recovery of lost packets in an MPLS (Multi Protocol Label Switching) network locally, avoiding end-to-end retransmission of complete TCP (Transmission Control Protocol) segments and, ultimately, allowing certain levels of Guarantee of Service (GoS) to network traffic. So, for months I did protocol reengineering, algorithm and buffer design, etc. A rather thorough job. The project was called “Support of Guarantee of Service (GoS) over MPLS through Active Techniques.” OpenSimMPLS was an accessory development, necessary to verify that the designed technologies represented an objective and empirical advancement; and although I developed it with the greatest possible care, I did not think it would have much impact beyond the context of the project. Still, I released it under GPL 2.0+ in case it could be useful to someone.
 
-!opensimmpls-retrievals
+![OpenSimMPLS packet retrievals](/assets/img/posts/opensimmpls-retrievals.jpg){: .mx-auto.d-block :}
 
 ## Expansion
 
@@ -47,3 +54,4 @@ Most of the things people were asking for here and there were more or less simpl
 Not all measures are finished yet. In fact, some haven’t even started. But a large part is. Especially those that most prevent the project from being extended by third parties: translation to English and code refactoring. That task is quite advanced. As is the repository and license change. With this, I hope this project lives at least another 10 years, either as it is or as a fork that evolves in parallel. There are already forks of the project on GitHub that haven’t been able to make pull requests since I’m in the middle of executing the described tasks 😟 Sorry! In any case, project downloads are more or less constant at about 1,000 per month, since the releases are intact and ready to use.
 
 So this is the OpenSimMPLS project. If you want to contribute, use it, learn more, or share experiences, don’t hesitate to get in touch through any of the means described.
+
