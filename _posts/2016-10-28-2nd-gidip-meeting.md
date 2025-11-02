@@ -8,9 +8,6 @@ share-img: /assets/img/path.jpg
 tags: [associations]
 author: Manuel Domínguez-Dorado
 ---
-# 2nd GIDIP Gastro-Meeting (Mérida)
-
-###### Manuel Domínguez-Dorado
 
 The Project Management Institute (PMI) is the international non-profit organization under whose umbrella the Project Management Professional (PMP) Certification was created, of which it is the guarantor. PMP is based on the set of best practices PMBoK (Project Management Base of Knowledge) and is, de facto, the most international standard in terms of project management. Moreover, it is a certification turned into a standard by the American National Standards Institute (ANSI).
 
@@ -68,4 +65,5 @@ You can stay up to date with GIDIP through:
 *   The GIDIP email
 
 Come on, join us!
+
 
