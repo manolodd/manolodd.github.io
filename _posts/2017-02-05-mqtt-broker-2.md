@@ -19,7 +19,7 @@ I like Linux, I can’t help it. Always have. I don’t care which distribution.
 
 The Futro S450 processor is 64-bit, so the first step for installation is downloading the 64-bit version of the Ubuntu Server 16.04.1 ISO. From <https://www.ubuntu.com/download/server> you can download the ISO image, although I recommend the Torrent, which is much faster (the torrent is also downloaded from that link).
 
-![PMI Branch logo](/assets/img/posts/ubuntu-1604-300x156.jpg){: .mx-auto.d-block :}
+![Ubuntu 16.04](/assets/img/posts/ubuntu-1604-300x156.jpg){: .mx-auto.d-block :}
 
 Once we have the ISO downloaded, we either create a bootable CD (Ubuntu Server fits on one) or create a bootable version on any USB stick. The Futro S450 doesn’t have a CD drive, and although you can use an external USB CD drive, it’s much more convenient to write the ISO directly to a USB stick. I used an 8 GB one I had lying around. It will lose its data, so make sure it’s a USB stick used for casual purposes without anything important on it.
 
@@ -27,7 +27,7 @@ Once we have the ISO downloaded, we either create a bootable CD (Ubuntu Server f
 
 In Linux there are many ways to create a bootable USB from an ISO image. With classic Linux commands like `dd` or `cat`, or with graphical tools. It had been a while since I created a bootable USB from an ISO, but the last time I did it in Linux using the Unetbootin utility. This time I did the same, but for some reason Unetbootin didn’t properly write the ISO to the USB stick and the Futro S450 didn’t detect it as a bootable disk. I realized this after several attempts. So I opted to create the USB from the ISO using another method: the Ubuntu “Disks” tool, which is the distribution I currently use on my workstation.
 
-![PMI Branch logo](/assets/img/posts/DiscosDeUbuntu-300x273.png){: .mx-auto.d-block :}
+![Bootable image creation](/assets/img/posts/DiscosDeUbuntu-300x273.png){: .mx-auto.d-block :}
 
 Steps:
 
@@ -42,7 +42,7 @@ And that’s it. It will ask you fourteen times to make sure you’re writing th
 
 Once the bootable USB is correctly created, the installation has no differences just because the target machine is a thin client. You just need to make sure to select boot from USB. To do this, simply insert the bootable USB into the Futro S450 and press `<F12>` during startup to bring up the boot menu. Just select the USB and press `<Enter>`. The installation will begin as usual.
 
-![PMI Branch logo](/assets/img/posts/Install-Ubuntu-16.04-Server-300x225.png){: .mx-auto.d-block :}
+![Ubuntu server installation](/assets/img/posts/Install-Ubuntu-16.04-Server-300x225.png){: .mx-auto.d-block :}
 
 I won’t detail the Ubuntu Server installation because that’s not the purpose of this article; plus, the Internet is full of guides. I’ll just mention two peculiarities I configured. First, the partitioning. I ended up using the 16 GB USB stick I had at home, so the Futro S450 now has a 4 GB Compact Flash and a 16 GB USB. I configured the partitions as follows:
 
@@ -52,7 +52,7 @@ I won’t detail the Ubuntu Server installation because that’s not the purpose
 
 This way, the branch that may grow the most (due to logs and broker storage) is on the USB with more space.
 
-![PMI Branch logo](/assets/img/posts/OpenSSH-300x148.png){: .mx-auto.d-block :}
+![Installing and enabling a SSH server](/assets/img/posts/OpenSSH-300x148.png){: .mx-auto.d-block :}
 
 Second, I’ll need an SSH server to access remotely since I plan to place the Futro S450 high up, without keyboard, mouse, or monitor. So during the installation process, when asked whether to install a predefined set of packages, I deselected everything except “OpenSSH server,” which will leave `sshd` listening on port 22 after installation.
 
@@ -60,7 +60,7 @@ Second, I’ll need an SSH server to access remotely since I plan to place the F
 
 By default, Ubuntu Server 16.04.1 configures the network to obtain its settings via DHCP. For a server, unless the DHCP server is configured to always assign the same IP to the same network interface, it’s not optimal. So we’ll change this configuration to define the network statically.
 
-![PMI Branch logo](/assets/img/posts/FutroDuranteLaInstalacion-225x300.jpg){: .mx-auto.d-block :}
+![Installation process](/assets/img/posts/FutroDuranteLaInstalacion-225x300.jpg){: .mx-auto.d-block :}
 
 As I mentioned, the thin client will be placed on a shelf without keyboard, monitor, or anything. Now it’s in the way, but that will end soon. And since I want to access it via SSH, I want it to always have a fixed IP assigned and known to me (for that and because we’ll need it when generating certificates to support TLS). To do this, open the file `/etc/network/interfaces`:
 
@@ -103,7 +103,7 @@ There are many open-source MQTT brokers anyone can download and configure. Some 
 
 For this context, I prefer Mosquitto. Mosquitto MQTT is a broker that supports the latest MQTT specification by OASIS, supports TLS, has a plugin system with interesting plugins already available, supports MQTT over WebSockets, ACLs, authentication… in short, it supports much more than I require for this particular broker.
 
-![PMI Branch logo](/assets/img/posts/mosquitto-server-logo-300x75.png){: .mx-auto.d-block :}
+![Mosquitto server logo](/assets/img/posts/mosquitto-server-logo-300x75.png){: .mx-auto.d-block :}
 
 Moreover, it’s written in C, is in Ubuntu’s repositories, and integrates with any Linux system like a glove, just like any other system service. It has exceptional performance in production and requires very few resources. On the downside, it has practically no horizontal scalability—it will only use one CPU core even if others are idle; it has no clustering options… it is what it is! And it’s very good. And I won’t need horizontal scalability for this case. So without a doubt… Mosquitto.
 
@@ -179,6 +179,7 @@ And it remains there, subscribed, waiting for more messages until we press `<Ctr
 Having an MQTT broker acting as an ESB with low-cost hardware and low power consumption is very, very simple. Mosquitto is a very powerful and high-performance MQTT broker. With the combination of a 64-bit Thin Client and Mosquitto, we can have an MQTT broker for a long time and certainly a solid base to build very interesting IoT (or not) applications, because it’s very easy to connect your application (mobile app, backend, web…) from any programming language to your MQTT broker.
 
 As soon as I get a chance, I’ll write a third article and quickly explain how to configure MQTT over TLS to access the remote broker securely and, if I have time, also explain what ACL and authentication in Mosquitto are and how to configure them.
+
 
 
 
