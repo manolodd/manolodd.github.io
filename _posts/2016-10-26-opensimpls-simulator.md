@@ -19,7 +19,7 @@ The technical ideas of my FDP have been used in various universities and in some
 
 The most surprising thing is that I created OpenSimMPLS to demonstrate that the improvements I proposed for an MPLS domain represented a real advancement over “standard” MPLS. And without realizing it, what I had made was a fairly complete MPLS simulator. The extensions created in the context of my FDP could be used or not, but as an MPLS simulator, OpenSimMPLS has enormous advantages for teaching. And that’s mainly where it was being used: in MPLS network teaching in universities around the world. Also in R\&D, although this was more secondary.
 
-!opensimmpls-repo-git
+![OpenSimMPLS packet retrievals](/assets/img/posts/opensimmpls-repo-git.png){: .mx-auto.d-block :}
 
 ## Problems to Grow
 
@@ -49,9 +49,10 @@ Most of the things people were asking for here and there were more or less simpl
     *   Email: <opensimmpls@manolodominguez.com>
     *   Twitter account: @opensimmpls
 
-!opensimmpls-web
+![OpenSimMPLS packet retrievals](/assets/img/posts/opensimmpls-web.png){: .mx-auto.d-block :}
 
 Not all measures are finished yet. In fact, some haven’t even started. But a large part is. Especially those that most prevent the project from being extended by third parties: translation to English and code refactoring. That task is quite advanced. As is the repository and license change. With this, I hope this project lives at least another 10 years, either as it is or as a fork that evolves in parallel. There are already forks of the project on GitHub that haven’t been able to make pull requests since I’m in the middle of executing the described tasks 😟 Sorry! In any case, project downloads are more or less constant at about 1,000 per month, since the releases are intact and ready to use.
 
 So this is the OpenSimMPLS project. If you want to contribute, use it, learn more, or share experiences, don’t hesitate to get in touch through any of the means described.
+
 
