@@ -1,7 +1,3 @@
-Here is the blog post translated into English and formatted in Markdown, assuming all images are located in `/assets/img/post`:
-
-***
-
 # OpenSimMPLS Simulator
 
 **Author: Manuel Domínguez Dorado**  
@@ -64,7 +60,3 @@ There are already forks on GitHub, though pull requests are on hold while I fini
 ***
 
 If you'd like to contribute, use the simulator, learn more, or share your experience, feel free to reach out through any of the channels mentioned above.
-
-***
-
-Would you like me to generate a README.md or a GitHub Wiki page version of this as well?
