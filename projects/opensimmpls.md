@@ -21,13 +21,13 @@ My role in the project includes being the original author, current lead maintain
 
 - **Java**: Core programming language used to implement the simulator.
 - **Maven**: Build automation and dependency management tool.
-- **JFreeChart 1.5.5** to generate charts and visualize simulation data.
-- **SLF4J API 2.1.0-alpha1** facade for various logging frameworks.
-- **SLF4J Simple 2.1.0-alpha1** a simple implementation of SLF4J for basic logging needs.
-- **MigLayout Swing 11.4.2** layout management in the Swing GUI.
-- **MigLayout Core 11.4.2** core of the layout management subsystem.
-- **AbsoluteLayout RELEASE230** previously used for GUI layout; currently being replaced by MigLayout for better flexibility and maintainability.
-- **JUnit Jupiter Engine 5.8.2** to ensure code reliability.
+- **JFreeChart 1.5.5**: To generate charts and visualize simulation data.
+- **SLF4J API 2.1.0-alpha1**: Facade for various logging frameworks.
+- **SLF4J Simple 2.1.0-alpha1**: A simple implementation of SLF4J for basic logging needs.
+- **MigLayout Swing 11.4.2**: Layout management in the Swing GUI.
+- **MigLayout Core 11.4.2**: Core of the layout management subsystem.
+- **AbsoluteLayout RELEASE230**: Previously used for GUI layout; currently being replaced by MigLayout for better flexibility and maintainability.
+- **JUnit Jupiter Engine 5.8.2**: To ensure code reliability.
 
 ## Results or Impact
 
