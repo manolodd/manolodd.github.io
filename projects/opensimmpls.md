@@ -6,7 +6,13 @@ cover-img:
   - "/assets/img/projects/individual-project-cover.jpg"
 ---
 
-![OpenSimMPLS logo](/assets/img/projects/opensimmpls-logo.png)
+![OpenSimMPLS logo](/assets/img/projects/opensimmpls-logo.png){: .mx-auto.d-block :}
+
+
+<div style="text-align: center;">
+  Visit the <a href="https://github.com/manolodd/opensimmpls">project homepage</a>
+</div>
+
 Visit the [project homepage](https://github.com/manolodd/opensimmpls)
 
 ## OpenSimMPLS Project Summary
