@@ -22,7 +22,9 @@ My role in the project includes being the original author, current lead maintain
 
 ## Technical Approach
 
-OpenSimMPLS is a desktop application built in Java, following an event-driven programming model to simulate dynamic MPLS network behavior. It uses Maven for build automation and dependency management, and Swing for its graphical user interface. The layout system has evolved from AbsoluteLayout to MigLayout for improved flexibility. Logging is handled via SLF4J, and simulation data is visualized using JFreeChart. Unit testing is supported through JUnit 5, ensuring reliability and maintainability of the codebase.
+OpenSimMPLS is a desktop application developed in Java to ensure portability and ease of use in educational and lab environments. It follows an event-driven programming paradigm, enabling responsive and dynamic simulation of MPLS networks. The application integrates third-party libraries such as JFreeChart for data visualization and MigLayout for flexible GUI design, enhancing the analytical experience for users.
+
+The source code is fully internationalized, allowing easy integration of multiple languages. By default, the interface is available in English and Spanish, with Spanish automatically activated when the software runs on a system configured in that language. The project uses Maven for standardized build automation and dependency management, simplifying setup and development workflows
 
 ## Results or Impact
 
