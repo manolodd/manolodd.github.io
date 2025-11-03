@@ -27,7 +27,7 @@ I’ll be sharing reflections on non-personal (professional) projects through bl
                  onmouseout="this.style.transform='scale(1)'">
           </div>
           <div class="card-body">
-            <h5 class="card-title">Proyecto 1</h5>
+            <h5 class="card-title">Project 1</h5>
           </div>
         </div>
       </a>
@@ -45,7 +45,7 @@ I’ll be sharing reflections on non-personal (professional) projects through bl
                  onmouseout="this.style.transform='scale(1)'">
           </div>
           <div class="card-body">
-            <h5 class="card-title">Proyecto 2</h5>
+            <h5 class="card-title">Project 2</h5>
           </div>
         </div>
       </a>
@@ -63,7 +63,7 @@ I’ll be sharing reflections on non-personal (professional) projects through bl
                  onmouseout="this.style.transform='scale(1)'">
           </div>
           <div class="card-body">
-            <h5 class="card-title">Proyecto 3</h5>
+            <h5 class="card-title">Project 3</h5>
           </div>
         </div>
       </a>
