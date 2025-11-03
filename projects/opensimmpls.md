@@ -8,16 +8,13 @@ cover-img:
 
 ![OpenSimMPLS logo](/assets/img/projects/opensimmpls-logo.png){: .mx-auto.d-block :}
 
-
-<div style="text-align: center;">
-  Visit the <a href="https://github.com/manolodd/opensimmpls">project homepage</a>
-</div>
-
-Visit the [project homepage](https://github.com/manolodd/opensimmpls)
-
 ## OpenSimMPLS Project Summary
 
 **OpenSimMPLS** is a cross-platform, multi-language MPLS network simulator originally developed at the University of Extremadura in 2004. It is designed for both educational and research purposes, offering an intuitive interface to simulate MPLS and GoS (Guarantee of Service) mechanisms. The tool supports experimentation with new protocols and techniques, making it valuable for academic and professional use. Now hosted on GitHub, OpenSimMPLS has been adopted in over 130 countries and has contributed to numerous scientific publications and innovations in telecommunications.
+
+## Project homepage
+
+Expanded information can be found on the [project homepage](https://github.com/manolodd/opensimmpls).
 
 ## Role and Responsibilities
 
