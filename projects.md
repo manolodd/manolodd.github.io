@@ -8,7 +8,7 @@ cover-img:
 
 Projects, to me, are about people, collaboration, learning, and growth. I’ve worked across tech, research, volunteering, and personal ventures, taking on many roles and perspectives. What stays with me isn’t just the outcome, but the relationships and lessons along the way.
 
-I’ll be sharing reflections on non-personal (professional) projects through blog posts. In the meantime, below is a selection of personal projects that have shaped my journey.
+I’ll be sharing reflections on non-personal (professional) projects through blog posts. In the meantime, below is a selection of personal projects that have shaped my journey. 
 
 <h2 class="text-center my-4">Some of my personal projects</h2>
 
