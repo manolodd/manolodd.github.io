@@ -7,7 +7,7 @@ cover-img:
 ---
 
 ![OpenSimMPLS logo](/assets/img/projects/opensimmpls-logo.png)
-[Visit the project's homepage](https://github.com/manolodd/opensimmpls)
+Visit the [project homepage](https://github.com/manolodd/opensimmpls)
 
 ## OpenSimMPLS Project Summary
 
