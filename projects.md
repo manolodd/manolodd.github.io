@@ -19,7 +19,7 @@ I’ll be sharing reflections on non-personal (professional) projects through bl
       <a href="/projects/opensimmpls" class="text-decoration-none text-dark">
         <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
           <div class="overflow-hidden">
-            <img src="/assets/img/projects/default.jpg"
+            <img src="/assets/img/projects/opensimmpls-logo.png"
                  class="card-img-top"
                  alt="Project 1"
                  style="transition: transform 0.3s;"
