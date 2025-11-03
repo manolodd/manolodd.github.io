@@ -22,6 +22,12 @@ Although I couldn’t list them all here, I’ve decided to give them, every now
 
 And of course, I’m always eager for new challenges. Because I know that the more projects I take on, and the more people I meet, the richer this journey called my career will be.
 
+---
+layout: page
+title: Proyectos
+permalink: /proyectos/
+---
+
 <h2 class="text-center my-4">Mis proyectos</h2>
 
 <div class="container">
@@ -70,4 +76,16 @@ And of course, I’m always eager for new challenges. Because I know that the mo
             <img src="/assets/img/projects/default.jpg"
                  class="card-img-top"
                  alt="Proyecto 3"
-                 style="transition: transform 0.3s
+                 style="transition: transform 0.3s;"
+                 onmouseover="this.style.transform='scale(1.05)'"
+                 onmouseout="this.style.transform='scale(1)'">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Proyecto 3</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+  </div>
+</div>
