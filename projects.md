@@ -21,3 +21,53 @@ Because in the end, what I value most isn’t the project itself, but the *conne
 Although I couldn’t list them all here, I’ve decided to give them, every now and then, space on my blog to share my insights and reflections. Each project is a lesson, and I hope those who visit find something useful or inspiring in my stories.
 
 And of course, I’m always eager for new challenges. Because I know that the more projects I take on, and the more people I meet, the richer this journey called my career will be.
+
+<h2 class="text-center my-4">Mis proyectos</h2>
+
+<div class="container">
+  <div class="row">
+
+    <div class="col-lg-4 col-md-6 mb-4">
+      <a href="#" class="text-decoration-none text-dark">
+        <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
+          <div class="overflow-hidden">
+            <img src="/assets/img/projects/default.jpg"
+                 class="card-img-top"
+                 alt="Proyecto 1"
+                 style="transition: transform 0.3s;"
+                 onmouseover="this.style.transform='scale(1.05)'"
+                 onmouseout="this.style.transform='scale(1)'">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Proyecto 1</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-lg-4 col-md-6 mb-4">
+      <a href="#" class="text-decoration-none text-dark">
+        <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
+          <div class="overflow-hidden">
+            <img src="/assets/img/projects/default.jpg"
+                 class="card-img-top"
+                 alt="Proyecto 2"
+                 style="transition: transform 0.3s;"
+                 onmouseover="this.style.transform='scale(1.05)'"
+                 onmouseout="this.style.transform='scale(1)'">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">Proyecto 2</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-lg-4 col-md-6 mb-4">
+      <a href="#" class="text-decoration-none text-dark">
+        <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
+          <div class="overflow-hidden">
+            <img src="/assets/img/projects/default.jpg"
+                 class="card-img-top"
+                 alt="Proyecto 3"
+                 style="transition: transform 0.3s
