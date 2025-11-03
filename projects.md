@@ -22,13 +22,7 @@ Although I couldn’t list them all here, I’ve decided to give them, every now
 
 And of course, I’m always eager for new challenges. Because I know that the more projects I take on, and the more people I meet, the richer this journey called my career will be.
 
----
-layout: page
-title: Proyectos
-permalink: /proyectos/
----
-
-<h2 class="text-center my-4">Mis proyectos</h2>
+<h2 class="text-center my-4">Some of my personal projects</h2>
 
 <div class="container">
   <div class="row">
