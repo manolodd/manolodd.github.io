@@ -33,7 +33,7 @@ And of course, I’m always eager for new challenges. Because I know that the mo
           <div class="overflow-hidden">
             <img src="/assets/img/projects/default.jpg"
                  class="card-img-top"
-                 alt="Proyecto 1"
+                 alt="Project 1"
                  style="transition: transform 0.3s;"
                  onmouseover="this.style.transform='scale(1.05)'"
                  onmouseout="this.style.transform='scale(1)'">
@@ -51,7 +51,7 @@ And of course, I’m always eager for new challenges. Because I know that the mo
           <div class="overflow-hidden">
             <img src="/assets/img/projects/default.jpg"
                  class="card-img-top"
-                 alt="Proyecto 2"
+                 alt="Project 2"
                  style="transition: transform 0.3s;"
                  onmouseover="this.style.transform='scale(1.05)'"
                  onmouseout="this.style.transform='scale(1)'">
@@ -69,7 +69,7 @@ And of course, I’m always eager for new challenges. Because I know that the mo
           <div class="overflow-hidden">
             <img src="/assets/img/projects/default.jpg"
                  class="card-img-top"
-                 alt="Proyecto 3"
+                 alt="Project 3"
                  style="transition: transform 0.3s;"
                  onmouseover="this.style.transform='scale(1.05)'"
                  onmouseout="this.style.transform='scale(1)'">
