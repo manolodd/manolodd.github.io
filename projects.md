@@ -21,13 +21,13 @@ I’ll be sharing reflections on non-personal (professional) projects through bl
           <div class="overflow-hidden">
             <img src="/assets/img/projects/opensimmpls-logo.png"
                  class="card-img-top"
-                 alt="Project 1"
+                 alt="OpenSimMPLS"
                  style="transition: transform 0.3s;"
                  onmouseover="this.style.transform='scale(1.05)'"
                  onmouseout="this.style.transform='scale(1)'">
           </div>
           <div class="card-body">
-            <h5 class="card-title">Project 1</h5>
+            <h5 class="card-title">OpenSimMPLS</h5>
           </div>
         </div>
       </a>
