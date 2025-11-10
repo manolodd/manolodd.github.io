@@ -34,18 +34,18 @@ I’ll be sharing reflections on non-personal (professional) projects through bl
     </div>
 
     <div class="col-lg-4 col-md-6 mb-4">
-      <a href="#" class="text-decoration-none text-dark">
+      <a href="/projects/cybertomp" class="text-decoration-none text-dark">
         <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
           <div class="overflow-hidden">
-            <img src="/assets/img/projects/default.jpg"
+            <img src="/assets/img/projects/cybertomp-logo.jpg"
                  class="card-img-top"
-                 alt="Project 2"
+                 alt="CyberTOMP framework"
                  style="transition: transform 0.3s;"
                  onmouseover="this.style.transform='scale(1.05)'"
                  onmouseout="this.style.transform='scale(1)'">
           </div>
           <div class="card-body">
-            <h5 class="card-title">Project 2</h5>
+            <h5 class="card-title">CyberTOMP framework</h5>
           </div>
         </div>
       </a>
