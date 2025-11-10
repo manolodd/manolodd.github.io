@@ -1,12 +1,12 @@
 ---
 layout: page
-title: OpenSimMPLS
-subtitle: Multiplatform and multilanguage opensource network simulator
+title: CyberTOMP framework
+subtitle: A framework for holistic cybersecurity management at tactical and operational evels
 cover-img:
   - "/assets/img/projects/individual-project-cover.jpg"
 ---
 
-![OpenSimMPLS logo](/assets/img/projects/opensimmpls-logo.png){: .mx-auto.d-block :}
+![OpenSimMPLS logo](/assets/img/projects/cybertomp-logo.png){: .mx-auto.d-block :}
 
 ## OpenSimMPLS Project Summary
 
@@ -29,3 +29,4 @@ The source code is fully internationalized, allowing easy integration of multipl
 ## Results or Impact
 
 OpenSimMPLS has become a cornerstone tool in both academia and industry. It has been used in over 130 countries by universities and companies for teaching, research, and network design. The simulator has supported numerous scientific publications, including conference papers, journal articles, and technical theses. It has contributed to educational innovation, particularly in the field of telecommunication engineering, and has been referenced in international research. The project has also inspired user-generated content such as tutorials, scenarios, and YouTube videos, further expanding its reach and utility. Its long-standing development and active community make it a reliable and evolving platform for MPLS and GoS experimentation.
+
