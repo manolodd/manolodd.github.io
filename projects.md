@@ -37,7 +37,7 @@ I’ll be sharing reflections on non-personal (professional) projects through bl
       <a href="/projects/cybertomp" class="text-decoration-none text-dark">
         <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
           <div class="overflow-hidden">
-            <img src="/assets/img/projects/cybertomp-logo.jpg"
+            <img src="/assets/img/projects/cybertomp-logo.png"
                  class="card-img-top"
                  alt="CyberTOMP framework"
                  style="transition: transform 0.3s;"
