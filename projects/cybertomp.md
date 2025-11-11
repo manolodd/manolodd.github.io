@@ -8,9 +8,11 @@ cover-img:
 
 ![OpenSimMPLS logo](/assets/img/projects/cybertomp-logo.png){: .mx-auto.d-block :}
 
-## OpenSimMPLS Project Summary
+## CyberTOMP Framework Project Summary
 
-**OpenSimMPLS** is an MPLS network simulator originally developed at the University of Extremadura in 2004. It is designed for both educational and research purposes, offering an intuitive interface to simulate MPLS and GoS (Guarantee of Service) mechanisms. The tool supports experimentation with new protocols and techniques, making it valuable for academic and professional use. Now hosted on GitHub, OpenSimMPLS has been adopted in over 130 countries and has contributed to numerous scientific publications and innovations in telecommunications.
+**CyberTOMP Framework** (Cybersecurity Tactical and Operational Management Process) is a comprehensive and systematic framework designed to manage **asset-focused cybersecurity** from the **tactical and operational levels** of an organization. It bridges the gap left by traditional high-level cybersecurity standards—such as ISO 27001 or NIST CSF, which often lack detailed procedures for lower organizational layers. CyberTOMP provides a **methodological and procedural foundation** that complements these strategic frameworks, enabling consistent and holistic cybersecurity management across departments. The framework introduces structured processes, standardized metrics, and a unified list of expected outcomes (ULEO) to quantitatively assess cybersecurity performance. It emphasizes **strategic alignment**, **holism**, and **unity of action**, empowering organizations to dynamically adapt to evolving cyber threats while maintaining a clear focus on protecting critical business assets and ensuring continuity of operations.
+
+Although the **CyberTOMP framework** can be applied in private-sector environments, it is **especially designed and particularly useful for public organizations**, which often face strong **structural compartmentalization into silos**, a **high dependence on outsourced technical services**, and a **complex supply chain**. CyberTOMP addresses these challenges by incorporating **specific mechanisms** that facilitate coordination across functional areas, ensure holistic cybersecurity management, and integrate supply chain dependencies into tactical and operational decision-making. Furthermore, the project includes **software tools** that support both the **implementation and evaluation** of the framework, enabling organizations to operationalize cybersecurity processes efficiently and measure their effectiveness over time.
 
 ## Project Homepage
 
@@ -29,5 +31,6 @@ The source code is fully internationalized, allowing easy integration of multipl
 ## Results or Impact
 
 OpenSimMPLS has become a cornerstone tool in both academia and industry. It has been used in over 130 countries by universities and companies for teaching, research, and network design. The simulator has supported numerous scientific publications, including conference papers, journal articles, and technical theses. It has contributed to educational innovation, particularly in the field of telecommunication engineering, and has been referenced in international research. The project has also inspired user-generated content such as tutorials, scenarios, and YouTube videos, further expanding its reach and utility. Its long-standing development and active community make it a reliable and evolving platform for MPLS and GoS experimentation.
+
 
 
