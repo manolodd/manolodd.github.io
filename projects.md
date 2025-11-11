@@ -16,24 +16,6 @@ I’ll be sharing reflections on non-personal (professional) projects through bl
   <div class="row">
 
     <div class="col-lg-4 col-md-6 mb-4">
-      <a href="/projects/opensimmpls" class="text-decoration-none text-dark">
-        <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
-          <div class="overflow-hidden">
-            <img src="/assets/img/projects/opensimmpls-logo.png"
-                 class="card-img-top"
-                 alt="OpenSimMPLS"
-                 style="transition: transform 0.3s;"
-                 onmouseover="this.style.transform='scale(1.05)'"
-                 onmouseout="this.style.transform='scale(1)'">
-          </div>
-          <div class="card-body">
-            <h5 class="card-title">OpenSimMPLS</h5>
-          </div>
-        </div>
-      </a>
-    </div>
-
-    <div class="col-lg-4 col-md-6 mb-4">
       <a href="/projects/cybertomp" class="text-decoration-none text-dark">
         <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
           <div class="overflow-hidden">
@@ -46,6 +28,24 @@ I’ll be sharing reflections on non-personal (professional) projects through bl
           </div>
           <div class="card-body">
             <h5 class="card-title">CyberTOMP framework</h5>
+          </div>
+        </div>
+      </a>
+    </div>
+
+    <div class="col-lg-4 col-md-6 mb-4">
+      <a href="/projects/opensimmpls" class="text-decoration-none text-dark">
+        <div class="card h-100 shadow-sm" onmouseover="this.classList.add('shadow-lg')" onmouseout="this.classList.remove('shadow-lg')">
+          <div class="overflow-hidden">
+            <img src="/assets/img/projects/opensimmpls-logo.png"
+                 class="card-img-top"
+                 alt="OpenSimMPLS"
+                 style="transition: transform 0.3s;"
+                 onmouseover="this.style.transform='scale(1.05)'"
+                 onmouseout="this.style.transform='scale(1)'">
+          </div>
+          <div class="card-body">
+            <h5 class="card-title">OpenSimMPLS</h5>
           </div>
         </div>
       </a>
