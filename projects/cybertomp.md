@@ -16,21 +16,20 @@ Although the **CyberTOMP framework** can be applied in private-sector environmen
 
 ## Project Homepage
 
-Expanded information can be found on the [project homepage](https://github.com/manolodd/opensimmpls).
+Expanded information can be found on the [project homepage](https://github.com/manolodd/cybertomp).
 
 ## Role and Responsibilities
 
-My role in the project includes being the original author, current lead maintainer, and principal developer. I am responsible for overseeing the project's development, ensuring its stability, and guiding its evolution to meet both educational and research needs.
+My role in the project includes being the original author, current lead maintainer, and principal researcher. I am responsible for overseeing the project's development, ensuring its stability, and guiding its evolution to meet the highest cybersecurity standards based on solid foundations.
 
 ## Technical Approach
 
-OpenSimMPLS is a desktop application developed in Java to ensure portability and ease of use in educational and lab environments. It follows an event-driven programming paradigm, enabling responsive and dynamic simulation of MPLS networks. The application integrates third-party libraries such as JFreeChart for data visualization and MigLayout for flexible GUI design, enhancing the analytical experience for users.
-
-The source code is fully internationalized, allowing easy integration of multiple languages. By default, the interface is available in English and Spanish, with Spanish automatically activated when the software runs on a system configured in that language. The project uses Maven for standardized build automation and dependency management, simplifying setup and development workflows.
+CyberTOMP is built upon the existing controls and principles defined in the most comprehensive and detailed versions of recognized **cybersecurity** standards, models, and initiatives—such as **MITRE ATT&CK®**, **CIS Critical Security Controls**, and the **NIST Cybersecurity Framework**, among others (as opposed to information security ones). Based on this foundation, and following a deep and systematic analysis of both the theoretical and practical cybersecurity needs of private and, especially, public entities, a methodological model has been developed—together with its corresponding processes, procedures, and tools—to enable a **holistic, bottom-up management** of organizational cybersecurity. Each stage of its development has been thoroughly researched, tested through pilot implementations and real organizational deployments, and subjected to rigorous scrutiny by the scientific community through **anonymous peer-reviewed publications**. This provides the model with proven guarantees of **real-world applicability** and **demonstrated practical effectiveness**.
 
 ## Results or Impact
 
 OpenSimMPLS has become a cornerstone tool in both academia and industry. It has been used in over 130 countries by universities and companies for teaching, research, and network design. The simulator has supported numerous scientific publications, including conference papers, journal articles, and technical theses. It has contributed to educational innovation, particularly in the field of telecommunication engineering, and has been referenced in international research. The project has also inspired user-generated content such as tutorials, scenarios, and YouTube videos, further expanding its reach and utility. Its long-standing development and active community make it a reliable and evolving platform for MPLS and GoS experimentation.
+
 
 
 
