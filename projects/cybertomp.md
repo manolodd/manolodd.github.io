@@ -28,7 +28,10 @@ CyberTOMP is built upon the existing controls and principles defined in the most
 
 ## Results or Impact
 
-OpenSimMPLS has become a cornerstone tool in both academia and industry. It has been used in over 130 countries by universities and companies for teaching, research, and network design. The simulator has supported numerous scientific publications, including conference papers, journal articles, and technical theses. It has contributed to educational innovation, particularly in the field of telecommunication engineering, and has been referenced in international research. The project has also inspired user-generated content such as tutorials, scenarios, and YouTube videos, further expanding its reach and utility. Its long-standing development and active community make it a reliable and evolving platform for MPLS and GoS experimentation.
+The **CyberTOMP framework** has established the foundation for a **holistic approach to cybersecurity management** in the public sector, one that actively involves the lowest organizational levels and ensures a **unified course of action**, even in the presence of operational silos. It is a **comprehensive model** that provides high visibility across all layers of the organization, supported by **specific metrics**, and enables effective **integration of outsourced services** by incorporating the organization’s **service providers within its supply chain** to ensure proper joint cybersecurity management.
+
+As a result of these guiding principles, numerous studies and analyses have been conducted on its implementation, contributing to a **relevant body of knowledge** applicable to various facets of cybersecurity. Several **public and private entities**, which also participated in the model’s development by bringing practical insights and helping define the requirements for **supporting software tools**, are currently managing their cybersecurity successfully through **CyberTOMP**.
+
 
 
 
