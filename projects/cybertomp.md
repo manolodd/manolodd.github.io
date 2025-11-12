@@ -16,7 +16,7 @@ Although the **CyberTOMP framework** can be applied in private-sector environmen
 
 ## Project Homepage
 
-Expanded information can be found on the [project homepage](https://github.com/cybertomp-framework).
+Expanded information can be found on the [project homepage](https://cybertomp-framework.github.io/).
 
 ## Role and Responsibilities
 
@@ -31,6 +31,7 @@ CyberTOMP is built upon the existing controls and principles defined in the most
 The **CyberTOMP framework** has established the foundation for a **holistic approach to cybersecurity management** in the public sector, one that actively involves the lowest organizational levels and ensures a **unified course of action**, even in the presence of operational silos. It is a **comprehensive model** that provides high visibility across all layers of the organization, supported by **specific metrics**, and enables effective **integration of outsourced services** by incorporating the organization’s **service providers within its supply chain** to ensure proper joint cybersecurity management.
 
 As a result of these guiding principles, numerous studies and analyses have been conducted on its implementation, contributing to a **relevant body of knowledge** applicable to various facets of cybersecurity. Several **public and private entities**, many of which have also participated in the model’s development by bringing practical insights and helping define the requirements for **supporting software tools**, are currently managing their cybersecurity successfully through **CyberTOMP**.
+
 
 
 
